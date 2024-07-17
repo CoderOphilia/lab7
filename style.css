@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 150px;
+    text-align: center;
+}
+
+main{
+    border: 10px solid yellow;
+    border-radius: 20px;
+}
+
+div{
+    color: white;
+}
